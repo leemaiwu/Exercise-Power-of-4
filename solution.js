@@ -6,6 +6,6 @@ const powerOf4 = (n) => {
 }
 
 console.log(powerOf4(4)) // true
-console.log(powerOf4(44)) // false
+console.log(powerOf4(44)) // false is returning true
 console.log(powerOf4(1024)) // true
 console.log(powerOf4('1024')) // false
